@@ -76,11 +76,7 @@ Documentation and reports
    ```bash
    git clone https://github.com/your-username/Job-Market-Analysis.git
    cd Job-Market-Analysis
-2. **Install Dependencies:**
-   Create a virtual environment and install the required Python libraries.
-   ```bash
-    pip install -r requirements.txt
-3. **Run Scripts**
+2. **Run Scripts**
    Execute the scripts in the following sequence:
 
 - **Data Scraping:** `scrapejobs.py`, `bascraper.py`
@@ -88,11 +84,8 @@ Documentation and reports
 - **Data Merging:** `mergedjobs.py`
 - **Predictive Modeling:** `predictionmodel.py`
 
-4. **View Visualizations**
+3. **View Visualizations**
 - Open Tableau dashboards in the `data/visualizations/` folder for insights.
-
-5. **Jupyter Notebook Analysis**
-- Explore `notebooks/analysis.ipynb` for exploratory data analysis and visualizations.
 
 ---
 
